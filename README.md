@@ -7,7 +7,8 @@ Link :- https://the-pet-emporium.web.app/
 * Join us at The Pet Emporium, where acquiring quality pet food is a seamless and enjoyable process.
 * Note :- If you want to experience the website you can **Sign Up in my website** or you can login by the provied information.
 * **username** : dummy
-* 
+* **password** : 123
+* **gmail**    : dummy1111@gmail.com
   
   
   
