@@ -10,7 +10,7 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.json());
 
-mongoose.connect('mongodb://127.0.0.1:27017/ThePetEmporium');
+mongoose.connect('mongodb+srv://kalashshah9981:Kalash%4018@thepetemporium.thmnchc.mongodb.net/ThePetEmporium');
 
 const MessageSchema = new mongoose.Schema({
     emailname: {
