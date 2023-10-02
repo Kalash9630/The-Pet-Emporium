@@ -1,0 +1,85 @@
+.container11{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:25px;
+  min-height: 100vh;
+  background: rgb(144, 205, 109);
+  background: linear-gradient(90deg, rgba(141,194,111,1) 0%, rgba(118,184,82,1) 50%);
+}
+
+.container11 form{
+  padding:20px;
+  width:700px;
+  background: #fff;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+}
+
+.container11 form .row1{
+  display: flex;
+  flex-wrap: wrap;
+  gap:15px;
+}
+
+.container11 form .row1 .col1{
+  flex:1 1 250px;
+}
+
+.container11 form .row1 .col1 .title{
+  font-size: 20px;
+  color:#333;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.container11 form .row1 .col1 .inputBox{
+  margin:15px 0;
+}
+
+.container11 form .row1 .col1 .inputBox span{
+  margin-bottom: 10px;
+  display: block;
+}
+
+.container11 form .row1 .col1 .inputBox input{
+  width: 100%;
+  border:1px solid #ccc;
+  padding:10px 15px;
+  font-size: 15px;
+  text-transform: none;
+}
+
+.container11 form .row1 .col1 .inputBox input:focus{
+  border:1px solid #000;
+}
+
+.container11 form .row1 .col1 .flex{
+  display: flex;
+  gap:15px;
+}
+
+.container11 form .row1 .col1 .flex .inputBox{
+  margin-top: 5px;
+}
+
+.container11 form .row1 .col1 .inputBox img{
+  height: 34px;
+  margin-top: 5px;
+  filter: drop-shadow(0 0 1px #000);
+}
+.shop-span{
+  font-size: 15px;
+}
+.container11 form .submit-btn{
+  width: 100%;
+  padding:12px;
+  font-size: 17px;
+  background: #4CAF50;
+  color:#fff;
+  margin-top: 5px;
+  /* cursor: pointer; */
+}
+
+.container11 form .submit-btn:hover{
+  background: #43A047;
+}

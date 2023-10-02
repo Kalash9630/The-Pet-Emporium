@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f6f6ea7f.css",
+    "main.js": "/static/js/main.8903fe27.js",
+    "static/media/aimg1.png": "/static/media/aimg1.8fec1e22c62c40907733.png",
+    "static/media/cat_food.png": "/static/media/cat_food.833c63d8f02f8a66304c.png",
+    "static/media/aimg2.png": "/static/media/aimg2.ba7486faa7ed17f3ad76.png",
+    "static/media/dog.png": "/static/media/dog.40cc9c9a90bce73ea157.png",
+    "static/media/contact_img.png": "/static/media/contact_img.0df28a233410f84a2a90.png",
+    "static/media/dog_food.png": "/static/media/dog_food.b58940928d72330af107.png",
+    "static/media/footer_background.jpg": "/static/media/footer_background.3b238c5bbd082804f716.jpg",
+    "static/media/home_bg_img.jpg": "/static/media/home_bg_img.c697e8e11598c67aeb51.jpg",
+    "static/media/cat1.png": "/static/media/cat1.d2d59386976a3aecebd2.png",
+    "static/media/about_img.png": "/static/media/about_img.3ed6c2e6c64121827f6b.png",
+    "static/media/dimg1.jpg": "/static/media/dimg1.f1cfade866dd63028091.jpg",
+    "static/media/dimg2.jpg": "/static/media/dimg2.5df1ecd7e3ef62a276fc.jpg",
+    "static/media/top_wave.png": "/static/media/top_wave.a06463fbce1773c68735.png",
+    "static/media/shop_now_dog.png": "/static/media/shop_now_dog.dad633df238e7b962864.png",
+    "static/media/shop_now_cat.png": "/static/media/shop_now_cat.42fe803bc1380a4b793c.png",
+    "static/media/card_img.png": "/static/media/card_img.942a5891094842eda4f3.png",
+    "index.html": "/index.html",
+    "main.f6f6ea7f.css.map": "/static/css/main.f6f6ea7f.css.map",
+    "main.8903fe27.js.map": "/static/js/main.8903fe27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f6ea7f.css",
+    "static/js/main.8903fe27.js"
+  ]
+}
