@@ -125,10 +125,10 @@ const HOME = () => {
                                 loggedInUser === null && (
                                     <>
                                         <li className="nav-item" style={{ paddingLeft: "57%",marginTop:'0.5%' }}>
-                                            <Link className="nav-link active btn-login" aria-current="page" to="/Logn">Login</Link>
+                                            <Link className="nav-link active btn-login" aria-current="page" to="/Logn" style={{width:'fit-content',float:'right',marginRight:'15%',marginBottom:'10px'}} >Login</Link>
                                         </li>
                                         <li className="nav-item" style={{ paddingLeft: "4%",marginTop:'0.5%' }}>
-                                            <Link className="nav-link active btn-login" aria-current="page" to="/Signup">SignUp</Link>
+                                            <Link className="nav-link active btn-login" aria-current="page" style={{width:'fit-content',float:'right',marginRight:'5%'}} to="/Signup">SignUp</Link>
                                         </li>
                                     </>
                                 )
