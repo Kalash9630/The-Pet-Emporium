@@ -8,7 +8,7 @@
 * **NOTE** :- If you want to experience the website you can **Sign Up in my website** or you can login by the provided information.\
    **username** : dummy\
    **password** : 123\
-   **gmail**    : dummy1111@gmail.com ( use this email for ordering the item. )
+   **email**    : dummy1111@gmail.com ( use this email for ordering the item. )
   
   
   
